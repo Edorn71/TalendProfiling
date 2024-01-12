@@ -10,4 +10,26 @@
 		<nature>org.talend.core.talendnature</nature>
 		<nature>com.oaklandsw.transform.runtime.nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>.Basic Column Analysis - Basic-20240112-1513-00046.pdf</name>
+			<type>1</type>
+			<location>C:/TalendDemoFiles/Reports/Basic Column Analysis - Basic-20240112-1513-00046.pdf</location>
+		</link>
+		<link>
+			<name>.Basic Column Analysis - Basic-20240112-1518-00025.pdf</name>
+			<type>1</type>
+			<location>C:/TalendDemoFiles/Reports/Basic Column Analysis - Basic-20240112-1518-00025.pdf</location>
+		</link>
+		<link>
+			<name>.Basic Column Analysis - Evolution-20240112-1514-00030.pdf</name>
+			<type>1</type>
+			<location>C:/TalendDemoFiles/Reports/Basic Column Analysis - Evolution-20240112-1514-00030.pdf</location>
+		</link>
+		<link>
+			<name>.Basic Column Analysis - Evolution-20240112-1518-00039.pdf</name>
+			<type>1</type>
+			<location>C:/TalendDemoFiles/Reports/Basic Column Analysis - Evolution-20240112-1518-00039.pdf</location>
+		</link>
+	</linkedResources>
 </projectDescription>

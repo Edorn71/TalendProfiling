@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataquality.reports:TdReport xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:dataquality.reports="http://dataquality.reports" xmi:id="_0zN8QbFUEe6ml5w3LMCigA" name="Basic Column Analysis - Evolution" creationDate="2024-01-12T15:13:06.106+0000" defaultContext="Default">
+  <clientDependency href="../Analyses/Basic_Column_Analysis_0.1.ana#_tKXUgLFUEe6ml5w3LMCigA"/>
+  <taggedValue xmi:id="_0zN8QrFUEe6ml5w3LMCigA" tag="OutputFolder" value="C:\TalendDemoFiles\Reports"/>
+  <taggedValue xmi:id="_0zN8Q7FUEe6ml5w3LMCigA" tag="REP_DBINFO_DBTYPE" value="HSQL"/>
+  <taggedValue xmi:id="_0zN8RLFUEe6ml5w3LMCigA" tag="REP_DBINFO_DBVERSION" value=""/>
+  <taggedValue xmi:id="_0zN8RbFUEe6ml5w3LMCigA" tag="REP_DBINFO_HOST" value=""/>
+  <taggedValue xmi:id="_0zN8RrFUEe6ml5w3LMCigA" tag="REP_DBINFO_PORT" value=""/>
+  <taggedValue xmi:id="_0zN8R7FUEe6ml5w3LMCigA" tag="REP_DBINFO_WAREHOUSE" value=""/>
+  <taggedValue xmi:id="_0zN8SLFUEe6ml5w3LMCigA" tag="REP_DBINFO_DBNAME" value="talend_dq"/>
+  <taggedValue xmi:id="_0zN8SbFUEe6ml5w3LMCigA" tag="REP_DBINFO_SCHEMA" value=""/>
+  <taggedValue xmi:id="_0zN8SrFUEe6ml5w3LMCigA" tag="REP_DBINFO_USER" value="sa"/>
+  <taggedValue xmi:id="_0zN8S7FUEe6ml5w3LMCigA" tag="REP_DBINFO_PASSWORD" value="enc:system.encryption.key.v1:1AIzOyL92c8VmVvoPIHbl760b8s3wHJyQ7HBvg=="/>
+  <taggedValue xmi:id="_0zN8TLFUEe6ml5w3LMCigA" tag="REP_DBINFO_PARAMETER" value=""/>
+  <taggedValue xmi:id="_0zN8TbFUEe6ml5w3LMCigA" tag="REP_DBINFO_URL" value="jdbc:hsqldb:file:/C:\Users\rutteram\TalendWorkspace\TDQ_reporting_db\talend_dq"/>
+  <taggedValue xmi:id="_0zN8TrFUEe6ml5w3LMCigA" tag="REP_DBINFO_DRIVER" value="org.hsqldb.jdbcDriver"/>
+  <taggedValue xmi:id="_0zN8T7FUEe6ml5w3LMCigA" tag="REP_DBINFO_DIALECT" value="org.hibernate.dialect.HSQLDialect"/>
+  <taggedValue xmi:id="_0zN8ULFUEe6ml5w3LMCigA" tag="REP_PASSWORD_CONTEXT" value="false"/>
+  <taggedValue xmi:id="_0zN8UbFUEe6ml5w3LMCigA" tag="Author" value="adrian.m.rutter@trial26722.eu.talend.com"/>
+  <taggedValue xmi:id="_0zN8UrFUEe6ml5w3LMCigA" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_0zN8U7FUEe6ml5w3LMCigA" tag="Description" value=""/>
+  <taggedValue xmi:id="_0zN8VLFUEe6ml5w3LMCigA" tag="Status" value="development"/>
+  <taggedValue xmi:id="_0zN8VbFUEe6ml5w3LMCigA" tag="OutputFileName" value="Basic Column Analysis - Evolution"/>
+  <taggedValue xmi:id="_0zN8VrFUEe6ml5w3LMCigA" tag="Single output" value="false"/>
+  <taggedValue xmi:id="_0zN8V7FUEe6ml5w3LMCigA" tag="OutputType" value="pdf"/>
+  <taggedValue xmi:id="_0zN8WLFUEe6ml5w3LMCigA" tag="REP_GENERATE_FILE" value="true"/>
+  <taggedValue xmi:id="_0zN8WbFUEe6ml5w3LMCigA" tag="REP_LAST_RUN_CONTEXT" value="Default"/>
+  <analysisMap xmi:id="_0zN8WrFUEe6ml5w3LMCigA" mustRefresh="true" reportType="Evolution">
+    <analysis href="../Analyses/Basic_Column_Analysis_0.1.ana#_BPazsLFUEe6ml5w3LMCigA"/>
+  </analysisMap>
+  <ExecInformations xmi:id="_0zN8W7FUEe6ml5w3LMCigA" executionDate="2024-01-12T15:18:36.954+0000" executionDuration="1074" executionNumber="3" lastRunOk="true" lastExecutionNumberOk="3"/>
+  <context xmi:id="_0zN8XLFUEe6ml5w3LMCigA" confirmationNeeded="false" hide="false" name="Default"/>
+</dataquality.reports:TdReport>
